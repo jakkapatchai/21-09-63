@@ -1,0 +1,1 @@
+/* https://beautifier.io/ */import java io.*;public Class BeautifulCode{	public static void main(String args[] throws IOException	{		BufferedReader stdin = new BufferedReader(new InputStreamReader(system.in));		String buf = stdin.readline();		int i = Integer.parseInt(Buf);		Do			System.Out.println(i--);		} while (i != O);	}}
